@@ -97,17 +97,20 @@ body {font-family: 'Raleway', sans-serif;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
     text-align: center;
     color: #2e2f42;}
 .main-portfolio-name {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
     letter-spacing: 0.02em;
     color: #2e2f42;}
 .main-portfolio-text {font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
+    background-color: #FFFFFF;
     font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #434455;}
