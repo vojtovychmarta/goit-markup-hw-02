@@ -63,7 +63,7 @@ body {font-family: 'Raleway', sans-serif;
     font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #434455;}
-.main-team {background: #f4f4fd;}
+.main-team {background-color: #FFFFFF;}
 .main.team.list {background-color: #FFFFFF;}
 .main-team-title {font-weight: 700;
     font-size: 36px;
@@ -74,7 +74,6 @@ body {font-family: 'Raleway', sans-serif;
     background-color: #FFFFFF;
     text-align: center;
     color: #2e2f42;}
-.main-pic {background-color: #FFFFFF;}
 .main-name {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
