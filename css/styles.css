@@ -70,7 +70,6 @@ body {font-family: 'Raleway', sans-serif;
     color: #434455;}
 .main-team {background-color: #F4F4FD}
 .main.team.list {background-color: #FFFFFF;}
-.main.pic {background-color: #FFFFFF;}
 .main-team-title {font-weight: 700;
     font-family: "Roboto", sans-serif;
     text-transform: capitalize;
@@ -79,6 +78,7 @@ body {font-family: 'Raleway', sans-serif;
     color: #2e2f42;}
 .main-team-title{font-size: 36px; line-height: 1.11; letter-spacing: 0.02em;}
 .main-team-title {background-color: #FFFFFF;}
+.main-pic {background-color: #FFFFFF;}
 .main-name {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -98,7 +98,7 @@ body {font-family: 'Raleway', sans-serif;
     text-align: center;
     color: #434455;}
 .main-text{background-color: #FFFFFF;}
-.main-portfolio {font-weight: 700;
+.main-portfolio-title {font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
