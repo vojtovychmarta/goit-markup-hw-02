@@ -80,6 +80,7 @@ body {font-family: 'Raleway', sans-serif;
     background-color: #FFFFFF;
     text-align: center;
     color: #2e2f42;}
+.main-team-title {background-color: #FFFFFF;}
 .main-name {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -88,6 +89,7 @@ body {font-family: 'Raleway', sans-serif;
     font-family: "Roboto", sans-serif;
     text-align: center;
     color: #2e2f42;}
+.main-name{background-color: #FFFFFF;}
 .main-text {font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -97,6 +99,7 @@ body {font-family: 'Raleway', sans-serif;
     font-family: "Roboto", sans-serif;
     text-align: center;
     color: #434455;}
+.main-text{background-color: #FFFFFF;}
 .main-portfolio {font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
