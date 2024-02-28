@@ -7,6 +7,7 @@ body {font-family: 'Raleway', sans-serif;
     line-height: 1.17;
     text-decoration: none;
     letter-spacing: 0.03em;
+    background-color: #FFFFFF;
     text-transform: uppercase;
     font-family: "Raleway", sans-serif;
     color: #4d5ae5;}
@@ -15,6 +16,7 @@ body {font-family: 'Raleway', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    background-color: #FFFFFF;
     text-decoration: none;
     color: #2e2f42;
     font-family: "Roboto", sans-serif;}
@@ -24,6 +26,7 @@ body {font-family: 'Raleway', sans-serif;
 .header-contacts-link {font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
+    background-color: #FFFFFF;
     letter-spacing: 0.02em;
     text-decoration: none;
     font-style: normal;
@@ -54,12 +57,14 @@ body {font-family: 'Raleway', sans-serif;
 .main-menu-h{font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    background-color: #FFFFFF;
     letter-spacing: 0.02em;
     font-family: "Roboto", sans-serif;
     color: #2e2f42;}
 .main-menu-text{font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
+    background-color: #FFFFFF;
     font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #434455;}
